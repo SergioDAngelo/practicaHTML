@@ -1,0 +1,22 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "practica html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioDAngelo/practicaHTML.git"
+  },
+  "author": "Sergio DAngelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioDAngelo/practicaHTML/issues"
+  },
+  "homepage": "https://github.com/SergioDAngelo/practicaHTML#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
